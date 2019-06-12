@@ -139,6 +139,8 @@ On the taskbar, click **Windows PowerShell ISE**.
 >* Uri = images/open-windows-powershell-ise.png 
 >* ShowAutomatically = No
 
+![](images/open-windows-powershell-ise.png)
+
 #### :calling: COMMAND
 
 ```PowerShell
@@ -190,6 +192,7 @@ is why the commands in this file must be run one at a time.
 >* Uri = images/read-the-script-description-1.png 
 >* ShowAutomatically = No
 
+![](images/read-the-script-description-1.png )
 ---
 
 ### Store non-admin credentials
