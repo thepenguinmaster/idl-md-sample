@@ -98,7 +98,7 @@ Version 0.1
 
 * * *
 
-# Understanding PowerShell JEA TEST
+# Understanding PowerShell JEA TEST 
 >LODSProperties
 >* IntroductionUri = https://lodmanuals.blob.core.windows.net/manuals/Ignite 2016/Videos/IDL4002_new content/Experiencing PowerShell JEA.mp4
 
