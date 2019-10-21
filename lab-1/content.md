@@ -1,4 +1,4 @@
-# *Lab 1* Deploying TEST and Configuring Virtual Machines
+# *Lab 1* Deploying and Configuring Virtual Machines
 
 **Objective: Create and prepare a virtual machine for use**
 
